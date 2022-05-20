@@ -1,5 +1,5 @@
 - Meu nome é Victor Hugo, tenho 17 anos.
-- Quero programar em Javascript e exucutar em node;
+- Quero programar em Javascript e executar em node;
 - Atualmente curso Informática para Internet no IFRJ - Campus Eng. Paulo de Frontin;
 - Tenho interesse na área de TI e quero me aprofundar mais na área;
 - Me contate no email victorhugorego2@gmail.com.
